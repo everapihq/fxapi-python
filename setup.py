@@ -16,6 +16,7 @@ setup(
     author='Everapi',
     author_email='office@everapi.com',
     description='Fxapi Python Client',
+    keywords = ['exchange rates api', 'exchange rates', 'rates api', 'fxapi'],
     classifiers=[
         "Development Status :: 4 - Beta",
         "Intended Audience :: Developers",
