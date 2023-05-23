@@ -6,7 +6,7 @@ Fxapi Python Client is the official Python Wrapper around the fxapi [API](https:
 
 Install from pip:
 ````sh
-pip install fxapi
+pip install fxapicom
 ````
 
 Install from code:
@@ -21,8 +21,8 @@ All curencyapi API requests are made using the `Client` class. This class must b
 In your Python application, import `fxapi` and pass authentication information to initialize it:
 
 ````python
-import fxapi
-client = fxapi.Client('API_KEY')
+import fxapicom
+client = fxapicom.Client('API_KEY')
 ````
 
 ### Retrieve Status

@@ -8,9 +8,9 @@ with open(path.join(this_directory, 'README.md')) as f:
     long_description = f.read()
 
 setup(
-    name='fxapi',
-    version='0.1.0',
-    packages=['fxapi'],
+    name='fxapicom',
+    version='0.1.2',
+    packages=['fxapicom'],
     url='https://github.com/everapihq/fxapi-python',
     license='MIT',
     author='Everapi',
